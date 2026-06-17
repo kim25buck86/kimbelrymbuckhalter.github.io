@@ -23,7 +23,7 @@ This project examines how computer science education pathways can contribute to 
 
 ## My Blog
 
-# Week 1 Blog: Laying the Foundation for My DREAM Research Project
+# Week 1 Blog: Laying the Foundation for My Research Project
 
 This week I met with my DREAM advisor, Dr. Sarah B. Lee, and discussed the scope of my research project. Initially, the project focused on expanding the future computing workforce through graduate education pathways in the South. After further discussion, the project was refined to focus specifically on computer science education pathways in Mississippi. I began developing my DREAM website, reviewing program requirements, and identifying literature related to computer science education, workforce development, and participation in computing. I also began exploring potential data sources and research studies on computer science education in Mississippi. This refinement of the project scope will allow me to focus more deeply on the opportunities and challenges affecting the future computing workforce within Mississippi.
 
