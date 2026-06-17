@@ -23,4 +23,4 @@ This project examines how computer science education pathways can contribute to 
 
 ## My Blog
 
-[My Blog](/kimberlymbuckhalter.github.io/blog.html)
+[My Blog](/kimberlymbuckhalter.github.io/blog/
