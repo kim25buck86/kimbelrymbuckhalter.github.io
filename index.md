@@ -178,6 +178,50 @@ My guiding question moving forward is:
 
 My next step is to work with my advisor to clarify the program's design, available data, evaluation questions, and the specific analyses that will be appropriate for this phase of the project. I will also continue developing the literature review so that the program evaluation can be connected to existing research on underrepresentation and pathways into graduate computer science education.
 
+# Week 6 Blog: Understanding the Design of Graduate CS Bridge Programs
+
+During Week 6 of my DREAM research experience, I continued examining bridge programs designed to create alternative pathways into graduate computer science education. My focus this week shifted from understanding why bridge programs exist to examining how these programs are designed.
+
+One program that has been particularly useful to my research is Northeastern University's Align MS in Computer Science program. Brodley et al. (2020) describe Align as a pathway for postsecondary graduates who did not major in computer science. Rather than requiring students to enter with a traditional undergraduate CS background, the program includes a two-semester bridge curriculum that prepares students to transition into master's-level computer science coursework.
+
+This model helped me think differently about access to graduate computer science. Traditional pathways may assume that students interested in an MS in Computer Science have already completed substantial undergraduate CS coursework. A bridge program creates another possibility by asking how students with different academic backgrounds can be intentionally prepared for graduate-level study.
+
+I also identified recent research by Kidder et al. (2026) examining the structure and scope of bridge-to-computing master's programs. This research is especially relevant to my project because it places bridge programs within a broader area of graduate computing education rather than treating them as isolated institutional initiatives.
+
+## From Program Design to Program Evaluation
+
+One of my biggest realizations this week was that I cannot meaningfully evaluate a program until I clearly understand what the program was designed to accomplish.
+
+Before examining outcomes, I need to understand several characteristics of the program in my DREAM study:
+
+* Why was the program created?
+* Who is it designed to serve?
+* What are its goals?
+* What bridge courses are included?
+* How are participants recruited and selected?
+* What support is provided?
+* What changed during its first two years?
+* What outcomes were expected?
+
+These questions are important because the goals of a program should determine how its success is evaluated.
+
+For example, if a bridge program is intended to provide pathways for students without traditional undergraduate CS preparation, then participants' academic backgrounds, completion of bridge coursework, admission, and enrollment may be important outcomes to examine.
+
+## Reflection
+
+This week helped me understand the difference between **describing an intervention and evaluating an intervention**.
+
+It would be easy to look at enrollment numbers or participant demographics and immediately begin drawing conclusions. However, those numbers only become meaningful when they are interpreted in relation to the program's goals and design.
+
+I am also learning to separate what the literature tells me about bridge programs generally from what I know about the specific program being evaluated in my research. Programs may share a common purpose while differing in their structure, participants, implementation, and measures of success.
+
+This is an important distinction that I will need to maintain throughout the project.
+
+## Next Steps
+
+My next step is to work with my research advisor to develop a detailed understanding of the specific bridge program being evaluated. I will focus on its origins, goals, target population, bridge courses, participant-selection process, implementation, and available data.
+
+This information will help me transition from the literature-review stage into the program-evaluation stage of my DREAM research.
 
 
 
