@@ -30,6 +30,13 @@ This week I met with my DREAM advisor, Dr. Sarah B. Lee, and discussed the scope
 ## Reflection
 This week, I finalized my research topic and created my DREAM project website. I learned more about the goals of my research and began exploring literature related to computer science education and workforce development. I am excited to continue learning about research and look forward to exploring ways to strengthen computer science pathways in Mississippi.
 
+## Next Steps
+
+During Week 2, I will begin reviewing literature related to representation in computer science, with an initial focus on women in computing. I will examine historical participation, current representation, and factors that may contribute to gender disparities in the field.
+
+This literature review will help me begin narrowing the broader research topic and identifying themes that may be relevant to understanding participation in computer science education and the computing workforce.
+
+
 # Week 2 Blog: Gender Representation in Computer Science: Challenges and Opportunities
 
 As I begin my DREAM research project, I wanted to first explore one of the most frequently discussed topics in computer science education: the underrepresentation of women in computing. Although computer science is one of the fastest-growing fields in the United States, women continue to be significantly underrepresented in both educational programs and technology careers.
@@ -51,6 +58,15 @@ While the studies reviewed in this blog focus primarily on national trends, they
 ## Reflection
 
 How can graduate computer science programs create supportive pathways that encourage more women to pursue advanced education and careers in computing?
+
+## Next Steps
+
+During Week 3, I will broaden my examination of representation in computer science beyond gender and begin focusing more specifically on graduate computer science education.
+
+I will look for national data and research related to gender and racial/ethnic representation at the graduate level. I also plan to identify appropriate data sources that can help establish current enrollment patterns and determine where disparities may exist within the pathway to graduate computer science education.
+
+This next stage will help move my research from the broader issue of women in computing toward a more focused examination of underrepresentation in graduate computer science.
+
 
 # Week 3 Blog: Broadening the Lens – Representation in Computer Science
 
