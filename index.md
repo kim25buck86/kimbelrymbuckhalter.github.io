@@ -188,6 +188,41 @@ This model helped me think differently about access to graduate computer science
 
 I also identified recent research by Kidder et al. (2026) examining the structure and scope of bridge-to-computing master's programs. This research is especially relevant to my project because it places bridge programs within a broader area of graduate computing education rather than treating them as isolated institutional initiatives.
 
+## From Program Design to Program Evaluation
+
+One of my biggest realizations this week was that I cannot meaningfully evaluate a program until I clearly understand what the program was designed to accomplish.
+
+Before examining outcomes, I need to understand several characteristics of the program in my DREAM study:
+
+* Why was the program created?
+* Who is it designed to serve?
+* What are its goals?
+* What bridge courses are included?
+* How are participants recruited and selected?
+* What support is provided?
+* What changed during its first two years?
+* What outcomes were expected?
+
+These questions are important because the goals of a program should determine how its success is evaluated.
+
+For example, if a bridge program is intended to provide pathways for students without traditional undergraduate CS preparation, then participants' academic backgrounds, completion of bridge coursework, admission, and enrollment may be important outcomes to examine.
+
+## Reflection
+
+This week helped me understand the difference between **describing an intervention and evaluating an intervention**.
+
+It would be easy to look at enrollment numbers or participant demographics and immediately begin drawing conclusions. However, those numbers only become meaningful when they are interpreted in relation to the program's goals and design.
+
+I am also learning to separate what the literature tells me about bridge programs generally from what I know about the specific program being evaluated in my research. Programs may share a common purpose while differing in their structure, participants, implementation, and measures of success.
+
+This is an important distinction that I will need to maintain throughout the project.
+
+## Next Steps
+
+My next step is to work with my research advisor to develop a detailed understanding of the specific bridge program being evaluated. I will focus on its origins, goals, target population, bridge courses, participant-selection process, implementation, and available data.
+
+This information will help me transition from the literature-review stage into the program-evaluation stage of my DREAM research.
+
 # Week 7 Blog: Research Progress and Meeting With My Advisor
 
 During Week 7 of my DREAM research experience, I continued working on my research and met with my research advisor, Dr. Sarah B. Lee. Our meeting gave us an opportunity to discuss the direction of my research paper, review my progress, and identify what I needed from her as I continued moving forward with the project.
