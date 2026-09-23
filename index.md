@@ -188,40 +188,112 @@ This model helped me think differently about access to graduate computer science
 
 I also identified recent research by Kidder et al. (2026) examining the structure and scope of bridge-to-computing master's programs. This research is especially relevant to my project because it places bridge programs within a broader area of graduate computing education rather than treating them as isolated institutional initiatives.
 
-## From Program Design to Program Evaluation
+# Week 7 Blog: Research Progress and Meeting With My Advisor
 
-One of my biggest realizations this week was that I cannot meaningfully evaluate a program until I clearly understand what the program was designed to accomplish.
+During Week 7 of my DREAM research experience, I continued working on my research and met with my research advisor, Dr. Sarah B. Lee. Our meeting gave us an opportunity to discuss the direction of my research paper, review my progress, and identify what I needed from her as I continued moving forward with the project.
 
-Before examining outcomes, I need to understand several characteristics of the program in my DREAM study:
+## Meeting With Dr. Lee
 
-* Why was the program created?
-* Who is it designed to serve?
-* What are its goals?
-* What bridge courses are included?
-* How are participants recruited and selected?
-* What support is provided?
-* What changed during its first two years?
-* What outcomes were expected?
+During our meeting, Dr. Lee and I discussed the different sections of the research paper and what should be included in each section. This helped me better understand how the work I have been completing through my literature review connects to the larger research paper.
 
-These questions are important because the goals of a program should determine how its success is evaluated.
+We also discussed how my project was coming along. This gave me an opportunity to look at what I had completed so far and what still needed my attention.
 
-For example, if a bridge program is intended to provide pathways for students without traditional undergraduate CS preparation, then participants' academic backgrounds, completion of bridge coursework, admission, and enrollment may be important outcomes to examine.
+Another important part of our conversation was discussing what I needed from Dr. Lee. Since she has more information about the program being evaluated, I need her guidance and information as I move from researching graduate computer science pathways and bridge programs toward describing and evaluating the specific program in our study.
+
+## Connecting My Research to the Paper
+
+Our discussion helped me see how the research I have completed during the previous weeks can begin contributing directly to the paper.
+
+My research on representation in computer science, graduate enrollment patterns, barriers, mentorship, and bridge programs provides background for the early sections of the paper. The next step is connecting that literature to the specific program being examined.
+
+I am beginning to understand that the literature review is not separate from the research paper. The sources I have been collecting and reviewing are helping establish the problem, explain why the problem matters, and provide context for the intervention being studied.
+
+## Understanding What I Still Need
+
+The meeting also helped me identify information that I still need before I can fully describe and evaluate the program.
+
+Some of the information I need includes:
+
+* the history and origin of the program;
+* the program's goals;
+* the target population;
+* information about the bridge courses;
+* how participants are recruited and selected;
+* how the program was implemented;
+* what changed between the first and second years;
+* what participant and outcome data are available; and
+* which questions can be answered using the available data.
+
+Having Dr. Lee's guidance is especially important for these areas because I do not want to make assumptions about the program based only on what I have learned about other bridge programs.
 
 ## Reflection
 
-This week helped me understand the difference between **describing an intervention and evaluating an intervention**.
+One of my biggest takeaways from Week 7 was realizing how important communication with my research advisor is throughout the research process.
 
-It would be easy to look at enrollment numbers or participant demographics and immediately begin drawing conclusions. However, those numbers only become meaningful when they are interpreted in relation to the program's goals and design.
+The meeting allowed me to ask questions, receive clarification about the paper, and make sure I was moving in the right direction. It also helped me recognize the areas where I can continue working independently and the areas where I need information or guidance from my advisor.
 
-I am also learning to separate what the literature tells me about bridge programs generally from what I know about the specific program being evaluated in my research. Programs may share a common purpose while differing in their structure, participants, implementation, and measures of success.
-
-This is an important distinction that I will need to maintain throughout the project.
+I am becoming more comfortable with the idea that research develops over time. I do not have to know every answer at the beginning. Part of the process is identifying what I know, determining what I still need to know, and working with my advisor to determine the next steps.
 
 ## Next Steps
 
-My next step is to work with my research advisor to develop a detailed understanding of the specific bridge program being evaluated. I will focus on its origins, goals, target population, bridge courses, participant-selection process, implementation, and available data.
+My next step is to continue developing the research paper using the outline discussed with Dr. Lee and the literature I have collected during the previous weeks.
 
-This information will help me transition from the literature-review stage into the program-evaluation stage of my DREAM research.
+I will also continue identifying the information and data needed from Dr. Lee so that I can accurately describe the program and begin preparing for the evaluation of its first two years.
 
+# Week 8 Blog: Moving Forward With the Research Paper
 
+During Week 8 of my DREAM research experience, my focus shifted more toward developing the research paper. After meeting with Dr. Lee during Week 7 and discussing the different sections of the paper, my progress, and the information I still needed from her, I had a clearer understanding of how to move forward.
 
+This week, I worked on the first portion of my research paper and emailed it to Dr. Lee for her review. I also had several questions that I wanted to discuss with her before continuing further with the paper. I wanted to make sure I clearly understood the direction of the research and what was expected before moving into the remaining sections.
+
+## Working on the First Portion of the Paper
+
+One of my main focuses this week was taking the research and literature I had collected and beginning to use it in the actual paper.
+
+The paper begins by establishing the problem of underrepresentation in computer science graduate education. From there, it examines factors that may contribute to disparities in participation and explains why graduate-level participation matters.
+
+Working on these sections helped me see how the research I completed during the previous weeks connects to the larger project.
+
+My research on representation and graduate enrollment can help establish the problem, while my research on barriers, mentorship, and bridge programs provides additional context for understanding graduate computer science pathways.
+
+## Sending My Work to Dr. Lee
+
+After working on the first portion of the paper, I emailed it to Dr. Lee so she could review my progress.
+
+I also had questions for her before I continued further. Rather than making assumptions about the direction of the paper or the specific program being evaluated, I wanted clarification so that I could make sure the next sections were aligned with the goals of the research project.
+
+This was an important part of the research process because I am learning when I can continue working independently and when I need feedback or additional information from my advisor.
+
+## Beginning to Connect My Sources
+
+Another focus this week was learning how to use my sources together rather than treating each article as a separate summary.
+
+Earlier in the project, much of my work involved finding sources, reading them, and recording what I learned from each one. As I began writing the paper, I realized that I needed to identify relationships among those sources.
+
+For example, national enrollment data can help demonstrate patterns in graduate computer science participation. Research on barriers and support can provide context for factors that may affect computing pathways. Research on bridge programs can then provide examples of interventions developed to create additional pathways into graduate computing.
+
+Together, these sources help build the background and rationale for the program being examined in my project.
+
+## Learning the Research-Writing Process
+
+This week also helped me understand that writing a research paper is different from simply collecting information.
+
+I have to determine which sources support each section, which claims require evidence, how multiple sources relate to the same topic, where additional research is still needed, and how to avoid making claims that go beyond what the evidence supports.
+
+I am not only learning more about my research topic; I am also learning how to organize and communicate research in a scholarly paper.
+
+## Reflection
+
+One of my biggest realizations this week was that the work I completed during the earlier weeks was beginning to have a clearer purpose.
+
+When I first started collecting literature, it sometimes felt like I was gathering a lot of information without knowing exactly where everything would go. Now that I have started writing the paper, I can better see where the different pieces of my research fit.
+
+Sending the first portion of my paper to Dr. Lee was also an important step for me. Instead of continuing when I still had questions, I chose to get clarification and feedback before moving further. This will help me make sure the remaining sections are moving in the correct direction.
+
+I am also learning that research is not always a straight line. Sometimes I have to return to the literature, find another source, revise an idea, or ask my advisor for clarification before continuing.
+
+## Next Steps
+
+My next step is to receive feedback and clarification from Dr. Lee on the first portion of my paper and the questions I sent her.
+
+Once I have that guidance, I will continue developing the remaining sections of the research paper, review additional literature as needed, and begin moving toward the portions of the project that focus more specifically on the program and its first two years.
