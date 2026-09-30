@@ -19,7 +19,7 @@ Dr Sarah B. Lee serves as my advisor for the Dream Apprenticeship Program at the
 My DREAM Apprenticeship research project is titled "Expanding the Future Computing Workforce Through Computer Science Education Pathways in Mississippi."
 This project examines how computer science education pathways can contribute to developing Mississippi's future computing workforce. Through a review of existing literature and available data, the study explores participation, access, and success in computer science education across the state. The research focuses on factors such as race, ethnicity, gender, geographic location, and educational opportunities that may influence student participation in computer science. The goal is to identify challenges, opportunities, and strategies that can strengthen computer science education pathways and support a more diverse and prepared computing workforce in Mississippi.
 
-[My Final Report](files/finalreport.pdf.pdf)
+[My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
