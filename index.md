@@ -332,3 +332,91 @@ I am also learning that research is not always a straight line. Sometimes I have
 My next step is to receive feedback and clarification from Dr. Lee on the first portion of my paper and the questions I sent her.
 
 Once I have that guidance, I will continue developing the remaining sections of the research paper, review additional literature as needed, and begin moving toward the portions of the project that focus more specifically on the program and its first two years.
+
+# Week 9 Blog: Getting Closer to the Finish Line
+
+During Week 9, I continued working on my research paper. Now that the project is coming to an end, I have been concentrating more on reviewing what I have written and making sure each section connects to the others.
+
+Looking back at where I started has shown me how much my research has changed over the past few months. My initial interest was in computer science education in Mississippi, but as I continued, the project shifted toward graduate computer science pathways and the program being examined.
+
+I dedicated a lot of time to reading articles, reviewing information, organizing my notes, and trying to put everything together into a paper that made sense. Some pieces came together more slowly than others.
+
+## Working on My Paper
+
+This week, I reviewed the structure of my paper, checked some of my references, and looked at how the literature connected to my research questions.
+
+I have learned that writing a research paper is not easy. Sometimes I would get further into the paper and realize that something from an earlier section needed to be explained differently.
+
+I also had to remind myself that not everything I found during my research needed to be included. That was difficult because I had spent so much time gathering the information, but I wanted the paper to remain focused on the actual study.
+
+## Reflection
+
+As I get closer to completing DREAM, I have been thinking about everything that went into this project. I knew research would involve a lot of reading and writing, but I did not realize how often I would have to go back over information and try to make sense of it all.
+
+There were times when I felt like I was making progress, only to realize I needed to revisit something I thought I had already finished. I would find myself thinking, "I really don't want to do this part again." That has probably been one of my biggest frustrations.
+
+This experience has also made me second-guess my plans to pursue a Ph.D. Before DREAM, I was seriously considering continuing my education after earning my master's degree. Now, I am not so sure. I love learning, but experiencing the research process has made me question whether I want to spend several more years doing this kind of work.
+
+I have not ruled it out. I just have a much better understanding of what I would be committing myself to, and I need to think about that.
+
+Still, I am glad I participated in DREAM. I have learned a lot about graduate computer science education and about myself. I am proud that I stuck with this project, even during the weeks when I felt overwhelmed or unsure of what I was doing.
+
+## Next Steps
+
+My next step is to finish reviewing my references and formatting and prepare my research paper for final approval.
+
+Once the paper is approved, I will upload the PDF to my DREAM website and complete the remaining requirements for my final submission.
+
+# Week 10 Blog: Reaching the Finish Line
+
+Week 10 is here, and honestly, I am glad to have made it to this point. This DREAM research experience has challenged me in ways I did not expect when I started.
+
+This week, I met with my research advisor, Dr. Lee. We discussed my research project and paper as I worked toward completing the final requirements. Having that meeting near the end of the project gave me a chance to talk about where things stood and what still needed to be completed.
+
+At this point, my focus was no longer on finding as much information as possible. I needed to make sure the research I had already completed was presented clearly and that my final paper accurately represented the work I had done.
+
+## Looking Back at My Research
+
+When I started DREAM, my research was much broader. I was interested in computer science education in Mississippi, and I did not know exactly where the research would take me.
+
+Over the course of the project, my focus became more specific. I learned more about graduate computer science pathways, representation in computing, barriers that may affect participation, and programs designed to provide another pathway into graduate computer science.
+
+I also learned that research changes as you work through it. Some of the questions I had at the beginning were not the same questions I had near the end. There were times when I had to go back, rethink something, find another source, or change the direction of a section.
+
+That part was frustrating at times, but it was real.
+
+## My Experience With Research
+
+DREAM gave me my first opportunity to spend this much time working on one research project. I learned that I enjoy finding information and learning about a topic, but I also learned that the research process requires more patience than I expected.
+
+I had moments when I felt confident about what I was doing and other moments when I wondered if I knew what I was doing at all. I think that is one of the biggest things I will remember about this experience.
+
+Research did not always feel neat or organized while I was doing it. Sometimes I had information everywhere and had to figure out how the pieces connected. Seeing the project come together at the end feels different because I know how much work happened before reaching this point.
+
+## What DREAM Taught Me
+
+DREAM taught me more than I expected about graduate computer science education, but it also taught me quite a bit about myself.
+
+I know now that I can work through a research project even when I feel overwhelmed. I can ask questions when I do not understand something. I can receive feedback, go back to my work, and keep moving.
+
+This experience has also made me think more seriously about what I want after earning my second master's degree. I have considered pursuing a Ph.D., but DREAM gave me a much more realistic look at the research side of doctoral study. I still have not completely ruled it out, but I am definitely going to give that decision more thought.
+
+And that is okay. Part of this experience was learning about research. Another part was learning whether this type of work is something I want to continue doing.
+
+## Final Reflection
+
+There were moments during DREAM when I was excited, frustrated, confused, tired, and proud. Sometimes all in the same week.
+
+I am grateful for the guidance Dr. Lee provided throughout this experience. Having an advisor I could meet with, ask questions, and receive feedback from was an important part of getting through the project.
+
+I am also proud of myself for sticking with it.
+
+I started this experience with a research topic and a lot of questions. I am ending it with a completed research experience, a better understanding of the research process, and a clearer idea of what research actually requires.
+
+I would say that is growth.
+
+## Next Steps
+
+My final steps are to complete the remaining DREAM requirements, make sure my research paper and website are ready for submission, and submit my final materials.
+
+After that, I am going to take a moment to appreciate the fact that I finished what I started.
